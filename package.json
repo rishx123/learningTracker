@@ -1,5 +1,6 @@
 {
   "name": "learning-tracker",
+  "homepage": "https://rishx123.github.io/learningTracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
